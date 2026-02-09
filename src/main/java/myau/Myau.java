@@ -20,8 +20,8 @@ import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.Objects;
 
-public class Myau {
-    public static String clientName = "&7[&cM&6y&ea&au&7]&r ";
+public class rvn3 {
+    public static String clientName = "&7[&cR&6v&en&a3&7]&r ";
     public static String version;
     public static RotationManager rotationManager;
     public static FloatManager floatManager;
