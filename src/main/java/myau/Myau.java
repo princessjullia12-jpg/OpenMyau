@@ -35,7 +35,7 @@ public class rvn3 {
     public static ModuleManager moduleManager;
     public static CommandManager commandManager;
 
-    public Myau() {
+    public Rvn3() {
         this.init();
     }
 
